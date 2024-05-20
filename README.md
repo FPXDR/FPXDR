@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fpxdr&show_icons=true&locale=en&layout=compact" alt="fpxdr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fpxdr&show_icons=true&locale=en" alt="fpxdr" /></p>
+
+[![FPXDR's GitHub | Stats](https://stats.quine.sh/FPXDR/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FPXDR)
