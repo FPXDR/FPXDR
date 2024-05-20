@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [RESUME](https://github.com/FPXDR/RESUME)
 
-- 🌱 I’m currently learning **React.js Swift Linux Machine Learning**
+- 🌱 I’m currently learning :** React.js,Swift,Linux,Machine Learning **
 
-- 📫 How to reach me **ranvlp@hotmail.com**
+- 📫 How to reach me :**ranvlp@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
