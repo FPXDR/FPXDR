@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parin Wattnaklang</h1>
-<h3 align="center">A Beginner Full Stack developer and Python developer from Thailand Th</h3>
+<h3 align="center">A Beginner Full Stack developer and Python developer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fpxdr&label=Profile%20views&color=0e75b6&style=flat" alt="fpxdr" /> </p>
 
