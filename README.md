@@ -22,4 +22,4 @@
 
 ![fpxdr's Stats](https://github-readme-stats.vercel.app/api?username=fpxdr&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![fpxdr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fpxdr&theme=gotham&hide_border=false)
-![fpxdr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fpxdr&theme=gotham&show_icons=true&hide_border=false&layout=compact width="40" hight"40")
+![fpxdr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fpxdr&theme=gotham&show_icons=true&hide_border=false&layout=compact)
