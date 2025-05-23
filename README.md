@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fpxdr&show_icons=true&locale=en" alt="fpxdr" /></p>
 
-[![FPXDR's GitHub | Stats](https://stats.quine.sh/FPXDR/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FPXDR)
+![fpxdr's Stats](https://github-readme-stats.vercel.app/api?username=fpxdr&theme=gotham&show_icons=true&hide_border=false&count_private=true)
